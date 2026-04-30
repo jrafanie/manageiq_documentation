@@ -213,3 +213,8 @@ Deleting multiple roles can be done as follows:
   ]
 }
 ```
+
+**Note:**
+
+See [API Permission Locking with Dual UI Permission Silos](../troubleshooting/index.html#API-Permission-Locking)
+for details on disabling all permission identifiers to fully restrict API access.

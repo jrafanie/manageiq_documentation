@@ -1862,6 +1862,11 @@ create your own, or copy and edit the default groups.
 
 **Note:**
 
+See [API Permission Locking with Dual UI Permission Silos](../troubleshooting/index.html#API-Permission-Locking)
+for details on disabling all permission identifiers to fully restrict API access.
+
+**Note:**
+
 If you have enabled **Get Role from LDAP** under **LDAP Settings**, then
 the role is determined by the LDAP user’s group membership in the
 directory service.
